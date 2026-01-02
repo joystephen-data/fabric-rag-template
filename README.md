@@ -1,4 +1,4 @@
-# 🚀 Production-Ready RAG Data Platform on Azure Fabric
+# 🚀 Production-Ready RAG Data Platform on Microsoft Fabric
 
 ## Overview
 
