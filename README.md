@@ -73,6 +73,38 @@ This project shows how to:
 
 ## Repository Structure (Planned)
 
+fabric-rag-template/
+│
+├── data/
+│   └── sample_public_data/
+│
+├── src/
+│   ├── spark/
+│   │   ├── bronze/
+│   │   ├── silver/
+│   │   └── gold/
+│   │
+│   ├── ai/
+│   │   ├── chunking.py
+│   │   ├── embeddings.py
+│   │   └── retrieval.py
+│
+├── dbt/
+│   ├── models/
+│   ├── tests/
+│   └── docs/
+│
+├── monitoring/
+│   ├── cost_tracking/
+│   └── logging/
+│
+├── docs/
+│   ├── architecture.md
+│   ├── performance.md
+│   └── governance.md
+│
+└── README.md
+
 ---
 
 
