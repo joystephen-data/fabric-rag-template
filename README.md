@@ -73,6 +73,7 @@ This project shows how to:
 
 ## Repository Structure (Planned)
 
+```text
 fabric-rag-template/
 │
 ├── data/
@@ -104,9 +105,7 @@ fabric-rag-template/
 │   └── governance.md
 │
 └── README.md
-
----
-
+```
 
 ---
 
