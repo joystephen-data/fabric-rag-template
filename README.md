@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a **reference implementation** for building a **production-ready, AI-ready data platform** on **Azure Fabric** using **PySpark and dbt**.
+This repository is a **reference implementation** for building a **production-ready, AI-ready data platform** on **Microsoft Fabric** using **PySpark and dbt**.
 
 The goal is to demonstrate **how to prepare trustworthy data for Retrieval-Augmented Generation (RAG)** — with a focus on **reliability, performance, governance, and cost awareness**, not demos or UI applications.
 
